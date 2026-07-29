@@ -1,0 +1,1 @@
+## This is a Whatsapp Bot that connects to POS to give a business owner an easy access to business metrics anywhere
