@@ -2,3 +2,5 @@ fastapi
 gspread
 google-auth
 requests
+uvicorn 
+dotenv
