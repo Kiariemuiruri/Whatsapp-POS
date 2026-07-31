@@ -1,6 +1,9 @@
 fastapi
+uvicorn
 gspread
 google-auth
 requests
-uvicorn 
-dotenv
+python-dotenv
+cryptography
+cffi
+pydantic
